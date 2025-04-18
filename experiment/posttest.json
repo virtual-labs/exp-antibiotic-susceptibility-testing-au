@@ -3,12 +3,12 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "1. The erratic motion of non-motile bacteria in an aqueous medium is due to--",
+      "question": "1. An organism is resistant to an antibiotic means",
       "answers": {
-        "a": "Gliding movement",
-        "b": "Turbulence",
-        "c": "Brownian movement",
-        "d": "None of the above"
+        "a": "Produce large inhibition zones",
+        "b": "Able to grow well in the MHA plate",
+        "c": "Can grow around the impregnated antibiotic disk",
+        "d": "Cannot grow in the presence of antibiotic disk"
       },
  
       "correctAnswer": "c",
@@ -17,12 +17,12 @@
 
 
     {
-      "question": "2. The term 'Peritrichous flagella' means",
+      "question": "2. 0.5 McFarland standard solution is a combination of",
       "answers": {
-        "a": "Single flagella",
-        "b": "Flagella all around the body",
-        "c": "Flagella on one end",
-        "d": "Short flagella"
+        "a": "Barium perchlorate and nitric acid",
+        "b": "Barium chloride dihydrate and sulfuric acid",
+        "c": "Barium hydroxide and hydrochloric acid",
+        "d": "Barium bromide and sulphuric acid"
       },
       
       "correctAnswer": "b",
@@ -31,12 +31,12 @@
 
     
     {
-      "question": "3. The red colouration of medium by the addition of KovacÃ¢â‚¬â„¢s reagent is due to the action of the enzyme____________ on ______",
+      "question": "3. Factors which influence antimicrobial susceptibility testing is/are",
       "answers": {
-        "a": "Cysteine desulfurase , cysteine",
-        "b": "Citrase, citrate",
-        "c": "Lysine decarboxylase, lysine",
-        "d": "Tryptophanase, tryptophan"
+        "a": "pH",
+        "b": "Moisture",
+        "c": "Effects of Thymidine or Thymine",
+        "d": "All the above"
       },
      
       "correctAnswer": "d",
