@@ -1,0 +1,47 @@
+
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1. An organism is resistant to an antibiotic means",
+      "answers": {
+        "a": "Produce large inhibition zones",
+        "b": "Able to grow well in the MHA plate",
+        "c": "Can grow around the impregnated antibiotic disk",
+        "d": "Cannot grow in the presence of antibiotic disk"
+      },
+ 
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },   
+
+
+    {
+      "question": "2. 0.5 McFarland standard solution is a combination of",
+      "answers": {
+        "a": "Barium perchlorate and nitric acid",
+        "b": "Barium chloride dihydrate and sulfuric acid",
+        "c": "Barium hydroxide and hydrochloric acid",
+        "d": "Barium bromide and sulphuric acid"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+
+    
+    {
+      "question": "3. Factors which influence antimicrobial susceptibility testing is/are",
+      "answers": {
+        "a": "pH",
+        "b": "Moisture",
+        "c": "Effects of Thymidine or Thymine",
+        "d": "All the above"
+      },
+     
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    }
+  ]
+}	 
+	 

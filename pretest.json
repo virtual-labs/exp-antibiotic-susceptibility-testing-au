@@ -1,0 +1,47 @@
+
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1. Choose the best medium for performing antibiotic susceptibility test",
+      "answers": {
+        "a": "Chocolate agar",
+        "b": "Nutrient agar",
+        "c": "Mueller Hinton Agar",
+        "d": "Sabouraud Dextrose agar"
+      },
+ 
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },   
+
+
+    {
+      "question": "2. Importance of Kirby Bauer test is",
+      "answers": {
+        "a": "Quantitative",
+        "b": "Qualitative",
+        "c": "Semi-qualitative",
+        "d": "Semi-quantitative"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+
+    
+    {
+      "question": "3. Area of no growth around an antibiotic disk indicates",
+      "answers": {
+        "a": "The chemical agent lacks the ability to diffuse into the medium",
+        "b": "The organism is resistant to that particular antibiotic",
+        "c": "The organism is susceptible to that antibiotic",
+        "d": "None of the above"
+      },
+     
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    }
+  ]
+}	 
+	 
