@@ -3,12 +3,12 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "1. The erratic motion of non-motile bacteria in an aqueous medium is due to--",
+      "question": "1. Choose the best medium for performing antibiotic susceptibility test",
       "answers": {
-        "a": "Gliding movement",
-        "b": "Turbulence",
-        "c": "Brownian movement",
-        "d": "None of the above"
+        "a": "Chocolate agar",
+        "b": "Nutrient agar",
+        "c": "Mueller Hinton Agar",
+        "d": "Sabouraud Dextrose agar"
       },
  
       "correctAnswer": "c",
@@ -17,12 +17,12 @@
 
 
     {
-      "question": "2. The term 'Peritrichous flagella' means",
+      "question": "2. Importance of Kirby Bauer test is",
       "answers": {
-        "a": "Single flagella",
-        "b": "Flagella all around the body",
-        "c": "Flagella on one end",
-        "d": "Short flagella"
+        "a": "Quantitative",
+        "b": "Qualitative",
+        "c": "Semi-qualitative",
+        "d": "Semi-quantitative"
       },
       
       "correctAnswer": "b",
@@ -31,15 +31,15 @@
 
     
     {
-      "question": "3. The red colouration of medium by the addition of KovacÃ¢â‚¬â„¢s reagent is due to the action of the enzyme____________ on ______",
+      "question": "3. Area of no growth around an antibiotic disk indicates",
       "answers": {
-        "a": "Cysteine desulfurase , cysteine",
-        "b": "Citrase, citrate",
-        "c": "Lysine decarboxylase, lysine",
-        "d": "Tryptophanase, tryptophan"
+        "a": "The chemical agent lacks the ability to diffuse into the medium",
+        "b": "The organism is resistant to that particular antibiotic",
+        "c": "The organism is susceptible to that antibiotic",
+        "d": "None of the above"
       },
      
-      "correctAnswer": "d",
+      "correctAnswer": "c",
       "difficulty": "beginner"
     }
   ]
